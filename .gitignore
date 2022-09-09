@@ -1,0 +1,6 @@
+# npm
+node_modules
+images
+package-lock.json
+*.log
+*.gz
